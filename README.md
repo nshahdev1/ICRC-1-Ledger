@@ -1,1 +1,1 @@
-POC for ICRC-1 Ledger
+POC for ICRC-1 Ledger using Internet Computer Blockchain
